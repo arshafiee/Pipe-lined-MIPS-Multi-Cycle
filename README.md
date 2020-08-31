@@ -1,2 +1,2 @@
 # Pipe-lined-MIPS-Multi-Cycle
-#### Implementation of Pipe-lined MIPS Multi-Cycle and Single-Cycle Datapath and Controller
+#### Implementation of Pipe-lined MIPS Multi-Cycle Datapath and Controller
